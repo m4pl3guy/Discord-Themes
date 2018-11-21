@@ -31,8 +31,8 @@ text-shadow: 1px 1px 0px black;
 }
 
 :root { 
-	--mc: #007dbd;
-	--hc: #03679b;
+	--mc: #FF69B4;
+	--hc:#FF69B4;
 	--RB: rgba(0,0,0,0.7); 
 	--RBT: rgba(0,0,0,0.7); 
 	--BG: url("https://i.imgur.com/d3lnerI.jpg");
